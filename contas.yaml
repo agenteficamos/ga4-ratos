@@ -1,0 +1,13 @@
+# GA4 Ratos — Cadastro de clientes
+# O Claude consulta este arquivo para resolver nomes de clientes para property IDs.
+#
+# Exemplo:
+# - nome: Meu Cliente
+#   property_id: "123456789"
+#   site: "exemplo.com.br"
+#
+# - nome: Ratos de IA
+#   property_id: "987654321"
+#   site: "ratosdeia.com.br"
+
+clientes: []
