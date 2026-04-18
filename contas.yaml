@@ -9,3 +9,7 @@
 clientes:
 
   # -- Teus clientes abaixo --
+
+  - nome: Ratos de IA
+    property_id: "528559546"
+    site: "ratosdeia.com.br"
