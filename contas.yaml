@@ -8,8 +8,10 @@
 
 clientes:
 
-  # -- Teus clientes abaixo --
+  - nome: "Atelie Claudia Salvador"
+    property_id: "460662851"
+    notas: "G1. Atelie catolico, arte sacra personalizada."
 
-  - nome: Ratos de IA
-    property_id: "528559546"
-    site: "ratosdeia.com.br"
+  - nome: "Turbo 10"
+    property_id: "490241133"
+    notas: "G1. Telecom local."

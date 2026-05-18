@@ -37,6 +37,12 @@ _ENV_SEARCH_PATHS = [
 # Fallback: buscar credenciais OAuth do google-ads-ratos
 _GOOGLE_ADS_ENV_PATHS = [
     os.path.expanduser("~/.claude/skills/google-ads-ratos/.env"),
+    # Local: ../google-ads-ratos/.env (mesmo nivel do ga4-ratos)
+    os.path.join(
+        os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))),
+        "google-ads-ratos",
+        ".env",
+    ),
 ]
 
 
