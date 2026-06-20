@@ -15,3 +15,8 @@ clientes:
   - nome: "Turbo 10"
     property_id: "490241133"
     notas: "G1. Telecom local."
+
+  - nome: "Bivia"
+    property_id: "538307505"
+    site: "bivia.com.br"
+    notas: "G1. Ecommerce trico. Loja Integrada."
